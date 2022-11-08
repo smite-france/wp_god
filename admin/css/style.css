@@ -1,0 +1,59 @@
+/* icons */
+.smfr_god_icon16{
+    height:16px !important;
+    width:16px !important;
+    display:inline-block;
+}
+.smfr_god_icon16l{
+    height:16px !important;
+    width:18px !important;
+    display:inline-block;
+}
+.smfr_god_icon18{
+    height:18px !important;
+    width:18px !important;
+    display:inline-block;
+}
+.smfr_god_icon18l{
+    height:18px !important;
+    width:24px !important;
+    display:inline-block;
+}
+
+.smfr_god_icon24{
+    height:24px;
+    width:24px;
+    display:inline-block;
+    border:1px solid #999;
+}
+.smfr_god_icon24c{
+    height:24px;
+    width:24px;
+    display:inline-block;
+}
+.smfr_god_icon32{
+    height:32px;
+    width:32px;
+    display:inline-block;
+    border:1px solid #999;
+}
+.smfr_god_icon48{
+    height:48px;
+    width:48px;
+    display:inline-block;
+}
+
+
+.smfr_god_view{
+    background:transparent url(../img/icon/view.png) no-repeat left 50% !important;
+}
+
+.smfr_god_add{
+    background:transparent url(../img/icon/add.png) no-repeat left 50% !important;
+}
+.smfr_god_modif, .smfr_god_update{
+    background:transparent url(../img/icon/modif.png) no-repeat left 50% !important;
+}
+.smfr_god_delete, .smfr_god_status{
+    background:transparent url(../img/icon/del.png) no-repeat left 50% !important;
+}
